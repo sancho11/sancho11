@@ -12,9 +12,10 @@
         <br>
         <p>
             <strong>
-                Electronics Engineer, Back-End Engineer, Front-End Engineer, Machine Learning, Computer Vision, Freelancer, Automation, and Science Enthusiast"<br><br>
+                Electronics Engineer, Back-End Engineer, Front-End Engineer, Machine Learning, Computer Vision, Automation, Debugging, Embedded Devices, Web Development, Freelancer and Science Enthusiast"<br><br>
+                Hello! I’m Enmanuel, I have strong work ethic and a strategic mindset. I’m passionate about diving deep into complex problems and delivering solutions that align tightly with organizational goals. I bring analytical rigor and a systems‑level perspective to every project, always respecting teammates’ time and expertise.<br><br>
+                I thrive in dynamic, challenge‑driven environments where I can contribute at a high level and continue growing professionally. I look forward to leveraging my skills and making a meaningful impact from day one.<br><br>
                 I specialize in Python and C++. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, and Problem Solving skills.<br><br>
-                WGT<br><br>
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
             </strong>
         </p>
@@ -57,6 +58,7 @@
   ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white&size=40x40) 
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white&size=40x40)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white&size=40x40)
+  ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white&size=40x40)
 
 - **Back-End Frameworks**:
   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white&size=40x40)
